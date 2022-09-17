@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sonaliarora707
-- 👀 I’m interested in Data Science and Machine Learning.
-- 🌱 I’m currently learning Advanced Data Science courses and ML Basics.
+- 👋 Hi, I’m Sonali Arora, Final year B.Tech. CSBS Student at NMIMS Navi Mumbai.
+- 👀 I’m interested in Software Engg. & Development, App Developemnt, Data Science, and ML.
+- 🌱 I’m currently learning Quantum Computing and Docker.
 - 💞️ I’m looking to collaborate on nothing for now.
 - 📫 How to reach me sonaliarora7072001@gmail.com
 
