@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Sonali Arora, Final year B.Tech. CSBS Student at NMIMS Navi Mumbai.
-- 👀 I’m interested in Software Engg. & Development, App Developemnt, Data Science, and ML.
-- 🌱 I’m currently learning Quantum Computing and Docker.
-- 💞️ I’m looking to collaborate on nothing for now.
+- 👋 Hi, I’m Sonali Arora, working as Data Engineer at Tata Consultancy Services
+- 📚 Completed my graduation in B.Tech(Hons) in Computer Science from NMIMS 
+- 👀 I’m interested in Software Development, Backend Engineering and DevOps
+- 🌱 I love to read books, watch documentaries and binge watch TV Shows 😄
 - 📫 How to reach me sonaliarora7072001@gmail.com
 
 <!---
