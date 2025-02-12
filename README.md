@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sonali Arora, working as Data Engineer at Tata Consultancy Services
-- 📚 Completed my graduation in B.Tech(Hons) in Computer Science from NMIMS 
+- 📚 Completed my B.Tech(Hons) in Computer Science from NMIMS 
 - 👀 I’m interested in Software Development, Backend Engineering and DevOps
 - 🌱 I love to read books, play Lawn Tennis and binge watch American TV Shows 😄
 - 📫 How to reach me sonaliarora7072001@gmail.com
